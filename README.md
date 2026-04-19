@@ -17,7 +17,7 @@ Instead of sending replies automatically, the system creates drafts for human re
 ---
 
 ## Architecture
-Gmail → RAG (FAISS) → OpenAI → Draft Email
+![Draft](assets/architecture_diagram.png)
 
 ---
 
@@ -41,11 +41,11 @@ app/
 
 ## 📸 Demo
 
-### 📩 Incoming Email
+## Incoming Email
 ![Inbox](assets/inbox.png)
 
-### 📝 Draft Generated
+## Draft Generated
 ![Draft](assets/draft.png)
 
-### 📊 Logs
+## Logs
 ![Logs](assets/logs.png)
