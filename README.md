@@ -39,9 +39,13 @@ app/
 
 ---
 
-## How to Run
+## 📸 Demo
 
-```bash
-git clone <repo>
-cd auto-reply-ai
-pip install -r requirements.txt
+### 📩 Incoming Email
+![Inbox](assets/inbox.png)
+
+### 📝 Draft Generated
+![Draft](assets/draft.png)
+
+### 📊 Logs
+![Logs](assets/logs.png)
