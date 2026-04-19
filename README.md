@@ -39,7 +39,7 @@ app/
 
 ---
 
-## 📸 Demo
+## Demo
 
 ## Incoming Email
 ![Inbox](assets/inbox.png)
