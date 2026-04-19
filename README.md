@@ -24,7 +24,11 @@ Gmail → RAG (FAISS) → OpenAI → Draft Email
 - Gmail API
 ---
 ## Project Structure
-(mention folder structure)
+app/ 
+├── gmail_service.py 
+├── rag_pipeline.py 
+├── llm_service.py 
+├── main.py
 ---
 ## How to Run
 
